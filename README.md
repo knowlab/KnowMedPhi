@@ -2,7 +2,7 @@
 
 **Expert knowledge-centred pre-training for transferable clinical language modelling**
 
-[Model on Hugging Face](https://huggingface.co/knowlab-research/KnowMedPhi3.5-mini) · [KnowMed-PT](KNOWMED_PT_LINK) · [KnowMed-IT](KNOWMED_IT_LINK)
+[Model on Hugging Face](https://huggingface.co/knowlab-research/KnowMedPhi3.5-mini) · [KnowMed-PT](https://huggingface.co/datasets/knowlab-research/KnowMed-PT) · [KnowMed-IT](https://huggingface.co/datasets/knowlab-research/KnowMed-IT)
 
 ## Overview
 
@@ -55,7 +55,7 @@ KnowMed-PT is the expert knowledge-centred corpus used for continued pre-trainin
 | Human Phenotype Ontology (HPO) | 0.8M |
 | **Total** | **126.2M** |
 
-**KnowMed-PT:** [Dataset / reconstruction resources](KNOWMED_PT_LINK)
+**KnowMed-PT:** [Dataset](https://huggingface.co/datasets/knowlab-research/KnowMed-PT)
 
 The constituent resources remain subject to their respective licences and terms of use. Where redistribution of source-derived content is restricted, users should obtain the corresponding resource from its original provider and comply with the applicable licence.
 
@@ -80,7 +80,7 @@ KnowMed-IT is the medical instruction-tuning corpus used following continued pre
 | NEJM-AI-Exams | 655 |
 | **Total** | **365,547** |
 
-**KnowMed-IT:** [Dataset](KNOWMED_IT_LINK)
+**KnowMed-IT:** [Dataset](https://huggingface.co/datasets/knowlab-research/KnowMed-IT)
 
 The MedlinePlus-derived instruction data were constructed as part of this work. Other constituent datasets remain subject to the licences and terms of their original sources.
 
@@ -102,7 +102,7 @@ The evaluation datasets are **not redistributed through this repository**. Users
 | MedQA | Multiple-choice medical QA | [MedQA](https://github.com/jind11/MedQA) |
 | MedMCQA | Multiple-choice medical QA | [MedMCQA](https://github.com/medmcqa/medmcqa) |
 | MedXpertQA | Medical QA | [MedXpertQA](https://huggingface.co/datasets/TsinghuaC3I/MedXpertQA) |
-| MedExQA | Medical QA with explanations | [MedExQA](MEDEXQA_LINK) |
+| MedExQA | Medical QA with explanations | [MedExQA](https://huggingface.co/datasets/bluesky333/MedExQA) |
 
 ### Biomedical named entity recognition
 
